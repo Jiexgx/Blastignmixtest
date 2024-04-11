@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "create:crushed_raw_iron",
+   "create_fully_automated::crushed_iron"
+  ]
+}
